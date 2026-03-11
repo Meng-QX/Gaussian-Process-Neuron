@@ -1,0 +1,26 @@
+
+import math
+
+
+RECIP_SQRT_2 = 2 ** -0.5
+Z_MAD = (2 / math.pi) ** 0.5
+LN_2PI = math.log(2 * math.pi)
+
+OBS_NOISE_INIT = 1.0
+OBS_NOISE_MIN = 1e-6
+
+OUTPUTSCALE_INIT = 1.0
+OUTPUTSCALE_MIN = 1e-6
+
+LENGTHSCALE_INIT = 1.0
+LENGTHSCALE_MIN = 1e-3
+
+INDUC_NOISE_INIT = 1e-4
+INDUC_NOISE_MIN = 1e-6
+
+INDUC_STD_INIT = 1.0
+INDUC_STD_MIN = 1e-3
+
+DEFAULT_JITTERS = (1e-6, 1e-5, 1e-4)
+
+
