@@ -5,6 +5,6 @@ The implementation of the models proposed in the paper
 **Exact Uncertainty Propagation via Gaussian Process Neurons**,
 presented as a poster at the Forty-Second Annual Conference on Uncertainty in Artificial Intelligence (**UAI 2026**).
 
-![Algorithm Performance Benchmark](docs/images/figure.svg)
+![1D Neuron](neuron1d.svg)
 
 
