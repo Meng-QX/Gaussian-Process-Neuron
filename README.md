@@ -5,8 +5,6 @@ The implementation of the models proposed in the paper
 [Exact Uncertainty Propagation via Gaussian Process Neurons](https://proceedings.mlr.press/v337/meng26a.html),
 published in the Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026).
 
-![neuron1d](neuron1d.svg)
-
 ### Citation
 
 If you utilize this implementation in your research, please cite the publication as follows:
